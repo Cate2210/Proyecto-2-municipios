@@ -4,6 +4,7 @@ Proyecto 2 – Finanzas Públicas Territoriales
 URL del repositorio
 
 URL de la app
+https://proyecto-2-municipios.streamlit.app/
 
 Este proyecto replica la actividad de clase, aplicando el modelo trabajado a tres nuevos municipios: Manizales, Santa Marta y Palmira. La visualización se realiza en Streamlit, con gráficos personalizados
 

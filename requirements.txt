@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 plotly
 geopandas 
+=======
+pandas
+numpy
+matplotlib
+plotly
+geopandas 
+>>>>>>> 0e58efa928ad8563c58279b989004531a94d4f60

@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+=======
+streamlit
+>>>>>>> 2d60fe782c8e32846593f4178eb4221e82463e16
 pandas
 numpy
 matplotlib
 plotly
 geopandas 
+<<<<<<< HEAD
 streamlit
+=======
+
+>>>>>>> 2d60fe782c8e32846593f4178eb4221e82463e16
